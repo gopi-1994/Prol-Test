@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="3" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="28526" started-at="2022-04-21T10:53:58Z" finished-at="2022-04-21T10:54:27Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="28526" started-at="2022-04-21T10:53:58Z" finished-at="2022-04-21T10:54:27Z">
+      <class name="org.test.pro.add_new_repo.TC01_Add_Repo">
+        <test-method status="PASS" signature="chrome()[pri:0, instance:org.test.pro.add_new_repo.TC01_Add_Repo@1dde4cb2]" name="chrome" duration-ms="28501" started-at="2022-04-21T16:23:58Z" finished-at="2022-04-21T16:24:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chrome -->
+      </class> <!-- org.test.pro.add_new_repo.TC01_Add_Repo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
